@@ -1,3 +1,7 @@
 some text
 
+<<<<<<< HEAD
+password="Kj8DJ01kasdj5"
+=======
 password="***REMOVED***"
+>>>>>>> 990561bcef91bbd0d57820c3fcf028e3becc9e5c
