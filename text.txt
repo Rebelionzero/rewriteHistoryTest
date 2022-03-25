@@ -1,7 +1,3 @@
 some text
 
-<<<<<<< HEAD
-password="***REMOVED***"
-=======
-password="***REMOVED***"
->>>>>>> 990561bcef91bbd0d57820c3fcf028e3becc9e5c
+password="--REDACTED--"
