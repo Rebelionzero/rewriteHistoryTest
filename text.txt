@@ -1,3 +1,5 @@
 some text
 
-password="--REDACTED--"
+password="SJSJSJJSJSJSJ"
+
+text more text
