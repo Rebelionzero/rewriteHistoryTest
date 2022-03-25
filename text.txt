@@ -1,5 +1,5 @@
 some text
 
-password="--REDACTED--"
+password="***REMOVED***"
 
 text more text
